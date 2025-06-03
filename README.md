@@ -73,9 +73,9 @@
 
 ## ✍️ Latest Projects
 
-- 🔧 **[RAG MultiAgent AI Chatbot](https://github.com/Sd-space/)**   
-- 🎮 **[AI Based Accident Detection and Alert System](https://github.com/Sd-space/)**   
-- 📊 **[AI Dashboard App](https://github.com/Sd-space/)** 
+- 🔧 **[RAG MultiAgent AI Chatbot](https://github.com/Sd-space/repositories/)**   
+- 🎮 **[AI Based Accident Detection and Alert System](https://github.com/Sd-space/repositories/)**   
+- 📊 **[AI Dashboard App](https://github.com/Sd-space/repositories/)** 
 
 ---
 
