@@ -59,18 +59,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sd-space&theme=tokyonight" alt="Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sd-space&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sd-space&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## ✍️ Latest Projects
 
 - 🔧 **[RAG MultiAgent AI Chatbot](https://github.com/Sd-space?tab=repositories)**   
